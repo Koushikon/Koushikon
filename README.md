@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?Koushikon=Koushikon)
-![](https://hit.yhype.me/github/profile?user_id=Koushikon)
+![](https://komarev.com/ghpvc/?username=Koushikon)
 
 <!--
 **Koushikask/Koushikask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
