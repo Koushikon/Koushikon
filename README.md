@@ -4,13 +4,19 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Koushikon.visitor-badge)
 
-![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=Koushikon&show_icons=true)
+|  |  |
+| --- | --- |
+| ![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=Koushikon&show_icons=true) |  |
+
+<!-- ![Streak Badge](https://github-readme-streak-stats.herokuapp.com/?user=Koushik&theme=jolly) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushikon&layout=compact&hide=css,qmake,makefile&langs_count=10)](https://github.com/Koushikon)
 
 <br/>
 
 👷‍♀️ I Worked on These
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushikon&layout=compact&hide=css,qmake,makefile&langs_count=10)](https://github.com/Koushikon)
+
 
 <!--
 **Koushikask/Koushikask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
