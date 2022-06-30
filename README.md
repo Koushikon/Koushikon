@@ -12,7 +12,7 @@
 
 |  |  |
 | --- | --- |
-| ![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=Koushikon&show_icons=true) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushikon&layout=compact&hide=css,qmake,makefile&langs_count=10)](https://github.com/Koushikon) |
+| ![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=Koushikon&show_icons=true) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushikon&layout=compact&hide=css,qmake,makefile&langs_count=8)](https://github.com/Koushikon) |
 
 <!-- ![Streak Badge](https://github-readme-streak-stats.herokuapp.com/?user=Koushik&theme=jolly) -->
 
