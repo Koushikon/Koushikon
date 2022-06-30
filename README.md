@@ -4,24 +4,30 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Koushikon.visitor-badge)
 
-## Building this is in progress ⚒
+##  Building this is in progress ⚒
+
+---
+
+### ⚙️ Profile Analytics
 
 |  |  |
 | --- | --- |
-| ![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=Koushikon&show_icons=true) |  |
+| ![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=Koushikon&show_icons=true) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushikon&layout=compact&hide=css,qmake,makefile&langs_count=10)](https://github.com/Koushikon) |
 
 <!-- ![Streak Badge](https://github-readme-streak-stats.herokuapp.com/?user=Koushik&theme=jolly) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushikon&layout=compact&hide=css,qmake,makefile&langs_count=10)](https://github.com/Koushikon)
+---
 
-<br/>
+### 👷‍♀️ War Tools
 
-👷‍♀️ I Worked on These
+- Language's: 
+- Framework's:
+- Database's:
+- IDE's:
 
-<!--
-**Koushikask/Koushikask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🐤 Few Notes
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -31,4 +37,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+---
