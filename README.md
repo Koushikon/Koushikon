@@ -23,7 +23,7 @@
 
 |  |  |
 | --- | --- |
-| ![Koushik's Github stats][ana001] ![Koushik's Github stats][ana002] | ![Top Languages][ana003] ![Top Languages][ana004] |
+| ![Koushik's Github stats](https://github-readme-stats.vercel.app/api?username=Koushikon&theme=buefy&show_icons=true#gh-light-mode-only) ![Koushik's Github stats](https://github-readme-stats.vercel.app/api?username=Koushikon&theme=radical&show_icons=true#gh-dark-mode-only) | ![Top Languages][ana003] ![Top Languages][ana004] |
 
 <!-- ![Streak Badge](https://github-readme-streak-stats.herokuapp.com/?user=Koushik&theme=jolly) -->
 
